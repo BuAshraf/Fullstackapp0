@@ -166,8 +166,8 @@ Feel free to open issues or create pull requests to improve this boilerplate.
 
 This project follows the tutorials and code examples provided by **Arjun Gautam**:
 
-* GitHub: [https://github.com/arjungautam1](https://github.com/arjungautam1)
-* YouTube Channel: [https://www.youtube.com/@CodeWithArjun](https://www.youtube.com/@CodeWithArjun)
+* GitHub: [arjungautam1](https://github.com/arjungautam1)
+* YouTube Channel: [@CodeWithArjun](https://www.youtube.com/@CodeWithArjun)
 
 ---
 ---
