@@ -187,4 +187,5 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 - ✖ **Twitter:** [Follow me](https://twitter.com/bo_ashraf)
 
 - 📬 **Email:** [Connect with me](muhammedalmugera21@gmail.com)
+  
 © 2025 Fullstackapp0 Team
